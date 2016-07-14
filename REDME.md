@@ -1,3 +1,3 @@
 npm install imgsave
 
-## author dravin.feng
+## npm author dravin.feng
